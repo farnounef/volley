@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="villes">
+        <item>Ville 1</item>
+        <item>Ville 2</item>
+        <item>Ville 3</item>
+        <!-- Ajoutez d'autres éléments de ville au besoin -->
+    </array>
+</resources>
